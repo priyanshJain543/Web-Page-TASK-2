@@ -1,0 +1,45 @@
+@font-face {
+    font-family: a1;
+    src: url(./Montserrat-VariableFont_wght.woff2 );
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+#main{
+    height: 100%;
+    width: 100%;
+    padding: 80px;
+    text-align: center;
+    background-size: cover;
+    position: content ;
+    background-image: url(https://images.unsplash.com/photo-1634673970798-a15ae56f6c65?q=80&w=1528&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D );
+}
+h1{
+    font-size: 100px;
+    font-family: a1;
+    font-weight: 600;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
+    color: rgba(121, 121, 121, 0.685);
+    margin-bottom: 25px;
+}
+button{
+    font-size: 1.5em;
+    padding: 20px 40px;
+    border-radius: 35px;
+    border-width: 4px;
+    border: none;
+    color: black;
+}
+button:hover{
+    background-color: rgba(179, 179, 179, 0.514);
+    font-weight: bold;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: 0.5s;
+}

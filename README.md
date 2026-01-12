@@ -20,7 +20,7 @@ CSS3 – Custom styling, layout rules, and smooth transitions.
 Google Fonts – Montserrat integrated via local font files.
 
 🌐 Live Demo
-You can view the design online here:
+You can view the design online here:https://priyanshjain543.github.io/Web-Page-TASK-2/
 
 🔗 Launch Project Live
 
